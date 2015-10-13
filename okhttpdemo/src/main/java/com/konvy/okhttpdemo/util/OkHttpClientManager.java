@@ -58,7 +58,7 @@ import javax.net.ssl.X509TrustManager;
  * Created by zhy on 15/8/17.
  */
 public class OkHttpClientManager {
-    private static final String TAG = "OkHttpClientManager";
+    private static final String TAG = "OkHttpClientManager2";
 
     private static OkHttpClientManager mInstance;
     private OkHttpClient mOkHttpClient;
