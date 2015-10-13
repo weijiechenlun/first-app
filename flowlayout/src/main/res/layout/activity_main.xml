@@ -1,0 +1,54 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e1e6f6"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <com.konvy.flowlayout.view.FlowLayout
+        android:layout_width="300dp"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content">
+        <TextView
+            style="@style/flow_text_01"
+            android:text="Welcome"/>
+        <TextView
+            style="@style/flow_text_01"
+            android:text="IT工程师"/>
+        <TextView
+            style="@style/flow_text_01"
+            android:text="学习ing"/>
+        <TextView
+            style="@style/flow_text_01"
+            android:text="恋爱ing"/>
+        <TextView
+            style="@style/flow_text_01"
+            android:text="I thick i can"/>
+        <TextView
+            style="@style/flow_text_01"
+            android:text="我是谁"/>
+        <TextView
+            style="@style/flow_text_01"
+            android:text="复仇者联盟"/>
+        <TextView
+            style="@style/flow_text_01"
+            android:text="鲁滨逊漂流记"/>
+        <TextView
+            style="@style/flow_text_01"
+            android:text="蝙蝠侠"/>
+        <TextView
+            style="@style/flow_text_01"
+            android:text="雷神"/>
+        <TextView
+            style="@style/flow_text_01"
+            android:text="蚁人"/>
+        <TextView
+            style="@style/flow_text_01"
+            android:text="致青春"/>
+        <TextView
+            style="@style/flow_text_01"
+            android:text="那些年我们一起睡的女孩"/>
+    </com.konvy.flowlayout.view.FlowLayout>
+
+</LinearLayout>
